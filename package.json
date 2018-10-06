@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/frobichaud/hubot-officepools/issues"
   },
-  "homepage": "https://github.com/frobichaud/hubot-officepools#readme"
+  "homepage": "https://github.com/frobichaud/hubot-officepools#readme",
+  "dependencies": {
+    "xmlhttp-request": "^0.4.1"
+  }
 }
